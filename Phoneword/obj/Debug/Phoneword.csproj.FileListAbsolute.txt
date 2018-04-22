@@ -39,3 +39,5 @@ E:\Repos\Phoneword\Phoneword\obj\Debug\res\mipmap-xxhdpi\icon.png
 E:\Repos\Phoneword\Phoneword\obj\Debug\res\mipmap-xxxhdpi\icon.png
 E:\Repos\Phoneword\Phoneword\bin\Debug\Phoneword.dll.mdb
 E:\Repos\Phoneword\Phoneword\obj\Debug\android\assets\Phoneword.dll.mdb
+E:\Repos\Phoneword\Phoneword\bin\Debug\Phoneword.dll
+E:\Repos\Phoneword\Phoneword\obj\Debug\linksrc\Phoneword.dll.mdb
