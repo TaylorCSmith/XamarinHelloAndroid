@@ -11,7 +11,6 @@ E:\Repos\Phoneword\Phoneword\obj\Debug\res\layout\main.xml
 E:\Repos\Phoneword\Phoneword\obj\Debug\res\values\strings.xml
 E:\Repos\Phoneword\Phoneword\obj\Debug\R.cs.flag
 E:\Repos\Phoneword\Phoneword\obj\Debug\uploadflags.txt
-E:\Repos\Phoneword\Phoneword\bin\Debug\Phoneword.dll
 E:\Repos\Phoneword\Phoneword\bin\Debug\Mono.Android.pdb
 E:\Repos\Phoneword\Phoneword\bin\Debug\mscorlib.pdb
 E:\Repos\Phoneword\Phoneword\bin\Debug\System.Core.pdb
@@ -33,3 +32,10 @@ E:\Repos\Phoneword\Phoneword\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
 E:\Repos\Phoneword\Phoneword\obj\Debug\linksrc\Mono.Security.pdb
 E:\Repos\Phoneword\Phoneword\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
 E:\Repos\Phoneword\Phoneword\obj\Debug\linksrc\Phoneword.dll.mdb
+E:\Repos\Phoneword\Phoneword\obj\Debug\res\mipmap-hdpi\icon.png
+E:\Repos\Phoneword\Phoneword\obj\Debug\res\mipmap-mdpi\icon.png
+E:\Repos\Phoneword\Phoneword\obj\Debug\res\mipmap-xhdpi\icon.png
+E:\Repos\Phoneword\Phoneword\obj\Debug\res\mipmap-xxhdpi\icon.png
+E:\Repos\Phoneword\Phoneword\obj\Debug\res\mipmap-xxxhdpi\icon.png
+E:\Repos\Phoneword\Phoneword\bin\Debug\Phoneword.dll.mdb
+E:\Repos\Phoneword\Phoneword\obj\Debug\android\assets\Phoneword.dll.mdb
